@@ -1,0 +1,9 @@
+id_caso,nombre_caso,codigo,nombre,medida,marca,categoria,precio,stock,estado,descripcion,status_esperado
+01,Laptop HP Exitosa,HP0135,Laptop HP,UND,Generico,Repuestos,3500.00,48,3,Ploma 14 pulgadas,200
+02,Monitor HP Exitosa,MHP135,Monitor HP,UND,Generico,Repuestos,1100.00,35,3,Ploma 16 pulgadas,200
+03,Teclado HP Exitosa,THP135,Teclado HP,UND,Generico,Repuestos,800.00,30,3,Modelo QWERTY,200
+04,Audifono HP Exitosa,AU0135,Audifono parlante HP,UND,Generico,Repuestos,500.00,40,3,Parlantes gamer con iluminacion RGB,200
+05,Camara HP Exitosa,CM0135,Camara HP,UND,Generico,Repuestos,900.00,20,3,camaras web de alta definicion,200
+06,Producto Duplicado,HP0010,Laptop HP,UND,Generico,Repuestos,3500.00,48,3,Intento duplicado,500
+07,Codigo Requerido,,Laptop HP,UND,Generico,Repuestos,3500.00,48,3,The codigo field is required.,500
+08,Stock Requerido,HP0098,Laptop HP,UND,Generico,Repuestos,3500.00,,3,The stock field is required.,500

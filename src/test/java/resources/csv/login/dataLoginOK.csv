@@ -1,0 +1,2 @@
+id_caso,caso_prueba,email,password,nombre_esperado,mensaje_esperado
+01,Login Exitoso,user_54475@test.com,12345678,Veronica,#string

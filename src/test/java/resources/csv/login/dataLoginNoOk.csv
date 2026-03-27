@@ -1,0 +1,2 @@
+id_caso,caso_prueba,email,password
+01,Datos Incorrectos,inexistente@test.com,clave123

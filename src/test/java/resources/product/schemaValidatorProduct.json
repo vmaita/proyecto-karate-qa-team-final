@@ -1,0 +1,14 @@
+{
+  "codigo": "#string",
+  "nombre": "#string",
+  "medida": "#string",
+  "marca_id": "#number",
+  "categoria_id": "#number",
+  "precio": "#string",
+  "stock": "#string",
+  "estado": "#string",
+  "descripcion": "#string",
+  "updated_at": "#regex ^\\d{4}-\\d{2}-\\d{2}.*",
+  "created_at": "#regex ^\\d{4}-\\d{2}-\\d{2}.*",
+  "id": "#number"
+}

@@ -1,0 +1,15 @@
+{
+  "message": "#regex ^Hi.*",
+  "access_token": "#string",
+  "token_type": "Bearer",
+  "user": {
+    "id": "#number",
+    "nombre": "#string",
+    "email": "#string",
+    "password": "#string",
+    "estado": "#number",
+    "tipo_usuario_id": "#number",
+    "created_at": "#string",
+    "updated_at": "#string"
+  }
+}

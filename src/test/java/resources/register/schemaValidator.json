@@ -1,0 +1,14 @@
+{
+  "data": {
+    "nombre": "#string",
+    "email": "#string",
+    "password": "#string",
+    "estado": "#number",
+    "tipo_usuario_id": "#number",
+    "updated_at": "#string",
+    "created_at": "#string",
+    "id": "#number"
+  },
+  "access_token": "#string",
+  "token_type": "#string"
+}

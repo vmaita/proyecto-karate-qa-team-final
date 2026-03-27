@@ -1,0 +1,7 @@
+{
+  "email": "#(email)",
+  "password": "<password>",
+  "nombre": "<nombre>",
+  "tipo_usuario_id": 1,
+  "estado": 1
+}

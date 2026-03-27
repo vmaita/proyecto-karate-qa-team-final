@@ -1,0 +1,4 @@
+id_caso,caso_prueba,nombre,email,password,tipo_usuario_id,status_esperado,mensaje_error
+01,Registro Nuevo,Alina,prueba_002@gmail.com,12345678,1,200,#null
+02,Registro Nuevo,Lucero,prueba_003@gmail.com,12345678,1,200,#null
+03,Email Existente,Juan QA,qateam5@gmail.com,12345678,1,500,The email has already been taken.
