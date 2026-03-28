@@ -1,5 +1,5 @@
 @automation-api
-Feature: Autenticación de Usuario
+Feature: Loin - Autenticación de Usuario
 
   Background:
     * url urlBase
@@ -48,6 +48,7 @@ Feature: Autenticación de Usuario
     * print response
 
     Examples:
+      #Actualizar archivo csv, para logearte con tu usuario creado o registrado
       | read('classpath:resources/csv/login/dataLoginNoOk.csv') |
 
 

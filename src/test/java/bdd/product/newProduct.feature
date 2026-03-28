@@ -1,5 +1,5 @@
 @automation-api
-Feature: Creación de Nuevos Productos
+Feature: Productos - Creación de Nuevos Productos
 
   Background:
     * url urlBase

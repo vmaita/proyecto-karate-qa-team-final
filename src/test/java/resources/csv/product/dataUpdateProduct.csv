@@ -1,0 +1,3 @@
+id_caso,idProducto,codigo,nombre,medida,marca,categoria,precio,stock,estado,descripcion
+CP01,500,HP0003,Laptop DELL,UND,Generico,Repuestos,8000.00,10,3,Ploma 14 pulgadas
+CP02,501,TC0056,Laptop DELL,UND,Generico,Repuestos,150.00,20,1,Mecánico con luces

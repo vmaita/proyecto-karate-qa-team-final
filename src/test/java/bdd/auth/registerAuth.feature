@@ -1,15 +1,13 @@
 @automation-api
-Feature: Registro de usuarios completo
+Feature: Registro - Creación de usuario completo
 
   Background:
     * url urlBase
-    # Generar email aleatorio: user_12345@test.com
-    * def getRandomEmail = function(){ return 'user_' + Math.floor(Math.random() * 100000) + '@test.com'}
     * def registerBody = read('registerAuth.json')
     * def schemaValidator = read('classpath:resources/register/schemaValidator.json')
     * configure headers = { Accept: 'application/json', Content-Type: 'application/json' }
 
-  Scenario Outline: CP<id_caso> - <caso_prueba>
+  Scenario Outline: CP<id_caso> - Registro de <caso_prueba>
     # Seteamos el email final en el body antes de enviar la petición
     * set registerBody.email = email
     * set registerBody.nombre = nombre

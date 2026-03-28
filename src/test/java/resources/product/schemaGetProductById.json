@@ -1,0 +1,12 @@
+{
+  "id": "#number",
+  "codigo": "#regex ^[A-Z]{1,3}\\d+$",
+  "nombre": "#string",
+  "medida": "##string",
+  "marca": "#string",
+  "categoria": "#string",
+  "precio": "#regex ^\\d+(\\.\\d{1,2})?$",
+  "stock": "#number",
+  "estado": "#number",
+  "descripcion": "##string"
+}
